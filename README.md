@@ -1,3 +1,4 @@
 # introduceyourself
-in this dir do '$ touch yourself.txt' & commit
-
+say your name
+=============
+(Why hellothere)[https://media2.giphy.com/media/Y8ocCgwtdj29O/giphy.gif]
