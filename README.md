@@ -1,2 +1,3 @@
 # introduceyourself
-say your name
+in this dir do '$ touch yourself.txt' & commit
+
